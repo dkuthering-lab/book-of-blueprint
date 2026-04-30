@@ -1,0 +1,22 @@
+# Default: normalize text files with LF endings
+* text=auto eol=lf
+
+# Project text formats
+*.md text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.csv text eol=lf
+
+# Scripts / configs
+*.sh text eol=lf
+*.bash text eol=lf
+*.zsh text eol=lf
+Makefile text eol=lf
+Dockerfile text eol=lf
+*.env text eol=lf
+
+# Binary artifacts
+*.pdf binary

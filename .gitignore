@@ -1,0 +1,21 @@
+# macOS / system
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# Build / generated artifacts
+# books/EDITIONS/PDF/  <-- Removed from ignore to allow tracking PDFs
+books/EDITIONS/COMBINED/
+books/EDITIONS/.tmp/
+# *.pdf                <-- Removed from ignore to allow tracking PDFs
+
+# Python / shell leftovers
+*.log
+*.tmp
+__pycache__/
+*.py[cod]

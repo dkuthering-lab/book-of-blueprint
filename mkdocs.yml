@@ -1,0 +1,127 @@
+site_name: Кодекс созидательного общества
+site_url: https://ваш-логин.github.io/book-of-blueprint/
+repo_url: https://github.com/ваш-логин/book-of-blueprint
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Главная: README.md
+  - '🇷🇺 Русский':
+    - Кодекс:
+      - Введение: books/ru/KODEKS/INDEX.md
+      - Краткая версия: books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md
+      - Полный текст:
+        - Преамбула: books/ru/KODEKS/EDITIONS/KODEKS_FULL_01_PREAMBULA.md
+        - I. Базовые основания: books/ru/KODEKS/EDITIONS/KODEKS_FULL_02_I_BAZOVYE_OSNOVANIYA.md
+        - II. Близкие отношения: books/ru/KODEKS/EDITIONS/KODEKS_FULL_03_II_BLIZKIE_OTNOSHENIYA_I_PRAKTIKI.md
+        - III. Общество и институты: books/ru/KODEKS/EDITIONS/KODEKS_FULL_04_III_OBSHCHESTVO_INSTITUTY.md
+        - IV. Экономика и технологии: books/ru/KODEKS/EDITIONS/KODEKS_FULL_05_IV_EKONOMIKA_I_TEKHNOLOGII.md
+        - V. Свобода и право: books/ru/KODEKS/EDITIONS/KODEKS_FULL_06_V_SVOBODA_PRAVO_SANCTIONS.md
+        - VI. Земля и космос: books/ru/KODEKS/EDITIONS/KODEKS_FULL_07_VI_ZEMLYA_I_KOSMOS.md
+        - VII. Работа со знанием: books/ru/KODEKS/EDITIONS/KODEKS_FULL_08_VII_RABOTA_SO_ZNANIEM.md
+        - VIII. Социальный контракт: books/ru/KODEKS/EDITIONS/KODEKS_FULL_09_VIII_SOCIALNYI_KONTRAKT.md
+        - Приложение: books/ru/KODEKS/EDITIONS/KODEKS_FULL_10_APPENDIX.md
+      - Контекст эпохи:
+        - О слое: books/ru/KODEKS/KONTEKST_EPOKHI/INDEX.md
+        - Анализ ситуации: books/ru/KODEKS/KONTEKST_EPOKHI/01_analiz_tekushchey_situatsii.md
+    - Книги:
+      - Кодекс Человека:
+        - О книге: books/ru/CODEX_CHELOVEKA/INDEX.md
+        - Том 1. Основание: books/ru/CODEX_CHELOVEKA/01_tom_osnovanie.md
+        - Том 2. Путь: books/ru/CODEX_CHELOVEKA/02_tom_put.md
+        - Том 3. Биографии: books/ru/CODEX_CHELOVEKA/03_tom_zhitiya.md
+        - Практики: books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md
+        - Журналистика: books/ru/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.md
+        - Педагогика: books/ru/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.md
+      - Общее благо:
+        - О книге: books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/INDEX.md
+        - Этический критерий: books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.md
+        - Собственность: books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.md
+        - Манифест: books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/06_manifest_obshchego_blaga.md
+      - Технокосмос: books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md
+      - Каркас смыслов: books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md
+    - Инструменты:
+      - Путеводитель: books/ru/KODEKS/PRINYATYY_KODEKS/READER.md
+      - Чеклист Медиа: books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md
+      - Чеклист Переговоры: books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md
+    - Скачать PDF:
+      - Кодекс: books/EDITIONS/PDF/Кодекс_созидательного_общества.pdf
+      - Краткий Кодекс: books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf
+      - Книжный корпус: books/EDITIONS/PDF/Книжный_корпус.pdf
+
+  - '🇺🇸 English':
+    - Codex:
+      - Introduction: books/en/KODEKS/INDEX.en.md
+      - Short Edition: books/en/KODEKS/EDITIONS/KODEKS_SHORT.en.md
+      - Full Text:
+        - Preamble: books/en/KODEKS/EDITIONS/KODEKS_FULL_01_PREAMBULA.en.md
+        - I. Basic Foundations: books/en/KODEKS/EDITIONS/KODEKS_FULL_02_I_BAZOVYE_OSNOVANIYA.en.md
+        - II. Everyday Responsibility: books/en/KODEKS/EDITIONS/KODEKS_FULL_03_II_BLIZKIE_OTNOSHENIYA_I_PRAKTIKI.en.md
+        - III. Society and Institutions: books/en/KODEKS/EDITIONS/KODEKS_FULL_04_III_OBSHCHESTVO_INSTITUTY.en.md
+        - IV. Economy and Technology: books/en/KODEKS/EDITIONS/KODEKS_FULL_05_IV_EKONOMIKA_I_TEKHNOLOGII.en.md
+        - V. Freedom and Law: books/en/KODEKS/EDITIONS/KODEKS_FULL_06_V_SVOBODA_PRAVO_SANCTIONS.en.md
+        - VI. Earth and Space: books/en/KODEKS/EDITIONS/KODEKS_FULL_07_VI_ZEMLYA_I_KOSMOS.en.md
+        - VII. Working with Knowledge: books/en/KODEKS/EDITIONS/KODEKS_FULL_08_VII_RABOTA_SO_ZNANIEM.en.md
+        - VIII. Social Contract: books/en/KODEKS/EDITIONS/KODEKS_FULL_09_VIII_SOCIALNYI_KONTRAKT.en.md
+        - Appendix: books/en/KODEKS/EDITIONS/KODEKS_FULL_10_APPENDIX.en.md
+      - Era Context:
+        - About: books/en/KODEKS/KONTEKST_EPOKHI/INDEX.en.md
+        - Situation Analysis: books/en/KODEKS/KONTEKST_EPOKHI/01_analiz_tekushchey_situatsii.en.md
+    - Books:
+      - Human Code:
+        - About: books/en/CODEX_CHELOVEKA/INDEX.en.md
+        - Vol 1. Foundation: books/en/CODEX_CHELOVEKA/01_tom_osnovanie.en.md
+        - Vol 2. The Way: books/en/CODEX_CHELOVEKA/02_tom_put.en.md
+        - Vol 3. Case Studies: books/en/CODEX_CHELOVEKA/03_tom_zhitiya.en.md
+        - Practices: books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md
+        - Journalism: books/en/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.en.md
+        - Education: books/en/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.en.md
+      - Common Good:
+        - About: books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/INDEX.en.md
+        - Ethical Criterion: books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.en.md
+        - Property: books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.en.md
+        - Manifesto: books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/06_manifest_obshchego_blaga.en.md
+      - Technocosmos: books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md
+      - Framework of Meaning: books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md
+    - Tools:
+      - Reader Guide: books/en/KODEKS/PRINYATYY_KODEKS/READER.en.md
+      - Media Checklist: books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md
+      - Negotiation Checklist: books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md
+    - Download PDF:
+      - Codex: books/EDITIONS/PDF/Codex_of_Constructive_Society.pdf
+      - Short Codex: books/EDITIONS/PDF/Codex_of_Constructive_Society_short_edition.pdf
+      - Complete Corpus: books/EDITIONS/PDF/Complete_Book_Corpus.pdf

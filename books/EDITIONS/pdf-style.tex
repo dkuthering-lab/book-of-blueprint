@@ -1,0 +1,38 @@
+\usepackage{microtype}
+\usepackage{etoolbox}
+\usepackage{enumitem}
+\usepackage{xurl}
+\urlstyle{same}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\graphicspath{{/data/}{./}}
+
+% Avoid stale running headers like "СОДЕРЖАНИЕ" after TOC.
+\pagestyle{plain}
+\makeatletter
+\let\ps@headings\ps@plain
+\let\ps@myheadings\ps@plain
+\makeatother
+
+% Allow pages to have varying heights to avoid awkward breaks.
+\raggedbottom
+
+% Reduce overfull lines.
+\setlength{\emergencystretch}{2em}
+\pretolerance=1000
+\tolerance=2000
+\hyphenpenalty=200
+\exhyphenpenalty=100
+
+% Prevent widows and orphans.
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
+
+% Penalties for lists: try to keep items together and with the preceding text.
+\setlist{beginpenalty=10000, midpenalty=1000, endpenalty=10000}
+
+% Ensure that the paragraph before a list stays with the list.
+\makeatletter
+\@beginparpenalty=10000
+\makeatother
