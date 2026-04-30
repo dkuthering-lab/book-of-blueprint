@@ -5,7 +5,7 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT_DIR"
 
-OUT_DIR="books/EDITIONS/COMBINED"
+OUT_DIR="docs/books/EDITIONS/COMBINED"
 mkdir -p "$OUT_DIR"
 
 emit_file() {
@@ -13,7 +13,7 @@ emit_file() {
   local out_file="$2"
 
   # Keep Codex section scaffolding headings as-is.
-  if [[ "$file_path" == books/ru/KODEKS/EDITIONS/KODEKS_FULL_*.md || "$file_path" == books/en/KODEKS/EDITIONS/KODEKS_FULL_*.en.md ]]; then
+  if [[ "$file_path" == docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_*.md || "$file_path" == docs/books/en/KODEKS/EDITIONS/KODEKS_FULL_*.en.md ]]; then
     cat "$file_path" >> "$out_file"
     return 0
   fi
@@ -80,53 +80,53 @@ build_from_manifest() {
 
 # --- Russian Editions ---
 build_from_manifest \
-  "books/ru/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.txt" \
+  "docs/books/ru/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.txt" \
   "$OUT_DIR/KODEKS_FULL.combined.md" \
   "Кодекс"
 
 build_from_manifest \
-  "books/EDITIONS/MANIFEST_ALL_BOOKS_READER.txt" \
+  "docs/books/EDITIONS/MANIFEST_ALL_BOOKS_READER.txt" \
   "$OUT_DIR/ALL_BOOKS_READER.combined.md" \
   "Сборка всех книг"
 
 build_from_manifest \
-  "books/EDITIONS/MANIFEST_OBSHCHEE_BLAGO.txt" \
+  "docs/books/EDITIONS/MANIFEST_OBSHCHEE_BLAGO.txt" \
   "$OUT_DIR/OBSHCHEE_BLAGO_FULL.combined.md" \
   "Общее благо и справедливая экономика"
 
 build_from_manifest \
-  "books/EDITIONS/MANIFEST_TEKHNOKOSMOS.txt" \
+  "docs/books/EDITIONS/MANIFEST_TEKHNOKOSMOS.txt" \
   "$OUT_DIR/TEKHNOKOSMOS_FULL.combined.md" \
   "Технокосмос и фронтир"
 
 build_from_manifest \
-  "books/EDITIONS/MANIFEST_KARKAS_SMYSLOV.txt" \
+  "docs/books/EDITIONS/MANIFEST_KARKAS_SMYSLOV.txt" \
   "$OUT_DIR/KARKAS_SMYSLOV_FULL.combined.md" \
   "Каркас смыслов и практик"
 
 # --- English Editions ---
 build_from_manifest \
-  "books/en/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.en.txt" \
+  "docs/books/en/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.en.txt" \
   "$OUT_DIR/KODEKS_FULL.en.combined.md" \
   "Codex"
 
 build_from_manifest \
-  "books/en/MANIFEST_ALL_BOOKS_READER.en.txt" \
+  "docs/books/en/MANIFEST_ALL_BOOKS_READER.en.txt" \
   "$OUT_DIR/ALL_BOOKS_READER.en.combined.md" \
   "Complete Book Corpus"
 
 build_from_manifest \
-  "books/en/MANIFEST_OBSHCHEE_BLAGO.en.txt" \
+  "docs/books/en/MANIFEST_OBSHCHEE_BLAGO.en.txt" \
   "$OUT_DIR/OBSHCHEE_BLAGO_FULL.en.combined.md" \
   "Common Good and Fair Economy"
 
 build_from_manifest \
-  "books/en/MANIFEST_TEKHNOKOSMOS.en.txt" \
+  "docs/books/en/MANIFEST_TEKHNOKOSMOS.en.txt" \
   "$OUT_DIR/TEKHNOKOSMOS_FULL.en.combined.md" \
   "Technocosmos and Frontier"
 
 build_from_manifest \
-  "books/en/MANIFEST_KARKAS_SMYSLOV.en.txt" \
+  "docs/books/en/MANIFEST_KARKAS_SMYSLOV.en.txt" \
   "$OUT_DIR/KARKAS_SMYSLOV_FULL.en.combined.md" \
   "Framework of Meanings and Practices"
 

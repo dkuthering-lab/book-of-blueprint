@@ -1,6 +1,0 @@
-# Framework of Meanings and Practices (standalone volume)
-books/en/SVETSKAYA_RELIGIYA_SMYSLA/01_glavnaya_ideya_i_zapovedi.en.md
-books/en/SVETSKAYA_RELIGIYA_SMYSLA/02_hramy_i_mesta_sily.en.md
-books/en/SVETSKAYA_RELIGIYA_SMYSLA/03_ritualy_bez_prinuzhdeniya.en.md
-books/en/SVETSKAYA_RELIGIYA_SMYSLA/04_ierarhiya_po_vkladu.en.md
-books/en/SVETSKAYA_RELIGIYA_SMYSLA/05_riski_iskazheniya.en.md

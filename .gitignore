@@ -9,10 +9,10 @@
 .vscode/
 
 # Build / generated artifacts
-# books/EDITIONS/PDF/  <-- Removed from ignore to allow tracking PDFs
-books/EDITIONS/COMBINED/
-books/EDITIONS/.tmp/
-# *.pdf                <-- Removed from ignore to allow tracking PDFs
+# PDFs are tracked in git as per project requirements
+docs/books/EDITIONS/COMBINED/
+docs/books/EDITIONS/.tmp/
+site/
 
 # Python / shell leftovers
 *.log

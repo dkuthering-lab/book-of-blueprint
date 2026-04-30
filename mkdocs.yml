@@ -1,7 +1,6 @@
 site_name: Кодекс созидательного общества
 site_url: https://dkuthering-lab.github.io/book-of-blueprint/
 repo_url: https://github.com/dkuthering-lab/book-of-blueprint
-docs_dir: '.'
 
 theme:
   name: material
@@ -39,14 +38,8 @@ markdown_extensions:
   - toc:
       permalink: true
 
-exclude_docs: |
-  scripts/*
-  source/*
-  .github/*
-  LICENSE
-
 nav:
-  - Главная: README.md
+  - Главная: index.md
   - '🇷🇺 Русский':
     - Кодекс:
       - Введение: books/ru/KODEKS/INDEX.md

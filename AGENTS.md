@@ -26,26 +26,26 @@
 
 ## Текущая структура проекта (что считается «официальным»)
 
-- **Официальный Кодекс проекта**: `books/ru/KODEKS/`
-  - `books/ru/KODEKS/PRINYATYY_KODEKS/` — рабочее ядро (стабильнее, практичнее, пригодно для принятия).
-  - `books/ru/KODEKS/KONTEKST_EPOKHI/` — аналитика, гипотезы, контекст и материалы, которые могут меняться.
-- **`books/ru/CODEX_CHELOVEKA/`** — расширенный массив глав и материалов (используется как база для уточнения разделов `KODEKS`, но не считается отдельной «второй книгой»).
-- **Сборки для чтения**: `books/EDITIONS/` (манифесты, объединённые версии, экспорт PDF).
-- **Языковой слой**: `books/ru/` и `books/en/` для локализованных изданий и словаря терминов.
+- **Официальный Кодекс проекта**: `docs/books/ru/KODEKS/`
+  - `docs/books/ru/KODEKS/PRINYATYY_KODEKS/` — рабочее ядро (стабильнее, практичнее, пригодно для принятия).
+  - `docs/books/ru/KODEKS/KONTEKST_EPOKHI/` — аналитика, гипотезы, контекст и материалы, которые могут меняться.
+- **`docs/books/ru/CODEX_CHELOVEKA/`** — расширенный массив глав и материалов (используется как база для уточнения разделов `KODEKS`, но не считается отдельной «второй книгой»).
+- **Сборки для чтения**: `docs/books/EDITIONS/` (манифесты, объединённые версии, экспорт PDF).
+- **Языковой слой**: `docs/books/ru/` и `docs/books/en/` для локализованных изданий и словаря терминов.
 
 ### Текущий принцип сборки полного Кодекса
 
-- `books/ru/KODEKS/EDITIONS/KODEKS_FULL.md` — сводный файл, существует параллельно с секционными файлами `KODEKS_FULL_01...10`. Правки вносятся синхронно в оба места.
-- Секционные файлы `KODEKS_FULL_01...10` встроены в `books/ru/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.txt`.
+- `docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL.md` — сводный файл, существует параллельно с секционными файлами `KODEKS_FULL_01...10`. Правки вносятся синхронно в оба места.
+- Секционные файлы `KODEKS_FULL_01...10` встроены в `docs/books/ru/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.txt`.
 - В PDF попадают именно секционные файлы через манифест, а не сводный `KODEKS_FULL.md`.
-- Это сделано, чтобы избежать дублирования и поддерживать устойчивую композицию в `books/EDITIONS/COMBINED/KODEKS_FULL.combined.md`.
+- Это сделано, чтобы избежать дублирования и поддерживать устойчивую композицию в `docs/books/EDITIONS/COMBINED/KODEKS_FULL.combined.md`.
 
 ### Архитектура секционных файлов
 
 Каждый секционный файл (`KODEKS_FULL_0X`) работает как **шапка раздела**:
 - содержит короткие ёмкие формулировки-якоря (списки принципов, критериев);
 - содержит развёрнутый текст раздела;
-- содержит ссылки-пути на полные главы (`books/ru/CODEX_CHELOVEKA/...`).
+- содержит ссылки-пути на полные главы (`docs/books/ru/CODEX_CHELOVEKA/...`).
 
 Полные главы из `CODEX_CHELOVEKA` и `OBSHCHEE_BLAGO` следуют после в сборке через манифест.
 
@@ -116,22 +116,22 @@
 
 - **Цель**: иметь «цельный и понятный документ» рядом с исходниками, не засоряя репозиторий артефактами сборки.
 - **Сборка PDF**: `scripts/export_pdf.sh` (через Docker-образ `card-book-pandoc:latest` либо локальный `pandoc`).
-- **Сборка combined markdown**: `scripts/build_books_md.sh` — собирает файлы по манифестам в `books/EDITIONS/COMBINED/`.
+- **Сборка combined markdown**: `scripts/build_books_md.sh` — собирает файлы по манифестам в `docs/books/EDITIONS/COMBINED/`.
 - **Замена ссылок**: `scripts/render_human_refs.py` — заменяет пути на человекочитаемые названия при сборке PDF.
 - **TOC-политика**: глубина оглавления ограничена (`TOC_DEPTH=2` по умолчанию), чтобы не перегружать читателя мелкими подпунктами.
 - **Колонтитулы**: имя раздела в верхнем колонтитуле отключено (используется `plain`-стиль страниц).
 - **Watermark на титуле**: для каждой книги можно подставлять PNG-метку (верхний левый угол, допускается выход в поля) через параметры `COVER_*`.
-- **Артефакты сборки** (combined markdown, временные файлы, PDF) игнорируются в git через `.gitignore`.
+- **Артефакты сборки**: combined markdown и временные файлы игнорируются в git через `.gitignore`. PDF-файлы в `docs/books/EDITIONS/PDF/` отслеживаются git.
 
 ## Манифесты сборок
 
 | Манифест | Что собирает | PDF |
 |---|---|---|
-| `books/ru/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.txt` | Полный Кодекс | `Кодекс_созидательного_общества_полная_версия.pdf` |
-| `books/EDITIONS/MANIFEST_ALL_BOOKS_READER.txt` | Путеводитель + Кодекс + контекстные книги | `Книжный_корпус_полная_сборка.pdf` |
-| `books/EDITIONS/MANIFEST_OBSHCHEE_BLAGO.txt` | Общее благо и справедливая экономика | `Общее_благо_и_справедливая_экономика_полная_версия.pdf` |
-| `books/EDITIONS/MANIFEST_TEKHNOKOSMOS.txt` | Технокосмос и фронтир | `Технокосмос_и_фронтир_полная_версия.pdf` |
-| `books/EDITIONS/MANIFEST_KARKAS_SMYSLOV.txt` | Каркас смыслов и практик | `Каркас_смыслов_и_практик_полная_версия.pdf` |
+| `docs/books/ru/KODEKS/EDITIONS/MANIFEST_KODEKS_FULL.txt` | Полный Кодекс | `Кодекс_созидательного_общества_полная_версия.pdf` |
+| `docs/books/EDITIONS/MANIFEST_ALL_BOOKS_READER.txt` | Путеводитель + Кодекс + контекстные книги | `Книжный_корпус_полная_сборка.pdf` |
+| `docs/books/EDITIONS/MANIFEST_OBSHCHEE_BLAGO.txt` | Общее благо и справедливая экономика | `Общее_благо_и_справедливая_экономика_полная_версия.pdf` |
+| `docs/books/EDITIONS/MANIFEST_TEKHNOKOSMOS.txt` | Технокосмос и фронтир | `Технокосмос_и_фронтир_полная_версия.pdf` |
+| `docs/books/EDITIONS/MANIFEST_KARKAS_SMYSLOV.txt` | Каркас смыслов и практик | `Каркас_смыслов_и_практик_полная_версия.pdf` |
 
 Краткие версии (`KODEKS_SHORT.md`, `KODEKS_SHORT.en.md`) собираются напрямую в `export_pdf.sh` без манифеста.
 
@@ -140,8 +140,8 @@
 Все файлы `CODEX_CHELOVEKA` (14 шт.), `OBSHCHEE_BLAGO` (8 шт.), `TEKHNOKOSMOS` (5 шт.), `SVETSKAYA_RELIGIYA` (5 шт.) и `PRINYATYY_KODEKS` (8 шт.) включены в сборки.
 
 **Намеренно вне манифестов:**
-- `books/ru/KODEKS/EDITIONS/KODEKS_FULL.md` — сводный файл, дублирует секционные
-- `books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md` — собирается напрямую в `export_pdf.sh`
+- `docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL.md` — сводный файл, дублирует секционные
+- `docs/books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md` — собирается напрямую в `export_pdf.sh`
 
 ## Статус
 

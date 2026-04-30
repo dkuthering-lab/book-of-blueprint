@@ -5,36 +5,36 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT_DIR"
 
-OUT_DIR="books/EDITIONS/PDF"
-TMP_DIR="books/EDITIONS/.tmp"
+OUT_DIR="docs/books/EDITIONS/PDF"
+TMP_DIR="docs/books/EDITIONS/.tmp"
 
-SHORT_MD="books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md"
-SHORT_EN_MD="books/en/KODEKS/EDITIONS/KODEKS_SHORT.en.md"
-FULL_MD="books/EDITIONS/COMBINED/KODEKS_FULL.combined.md"
-ALL_MD="books/EDITIONS/COMBINED/ALL_BOOKS_READER.combined.md"
-OBSHCHEE_BLAGO_MD="books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.combined.md"
-TEKHNOKOSMOS_MD="books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.combined.md"
-KARKAS_SMYSLOV_MD="books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.combined.md"
+SHORT_MD="docs/books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md"
+SHORT_EN_MD="docs/books/en/KODEKS/EDITIONS/KODEKS_SHORT.en.md"
+FULL_MD="docs/books/EDITIONS/COMBINED/KODEKS_FULL.combined.md"
+ALL_MD="docs/books/EDITIONS/COMBINED/ALL_BOOKS_READER.combined.md"
+OBSHCHEE_BLAGO_MD="docs/books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.combined.md"
+TEKHNOKOSMOS_MD="docs/books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.combined.md"
+KARKAS_SMYSLOV_MD="docs/books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.combined.md"
 
-FULL_EN_MD="books/EDITIONS/COMBINED/KODEKS_FULL.en.combined.md"
-ALL_EN_MD="books/EDITIONS/COMBINED/ALL_BOOKS_READER.en.combined.md"
-OBSHCHEE_BLAGO_EN_MD="books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.en.combined.md"
-TEKHNOKOSMOS_EN_MD="books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.en.combined.md"
-KARKAS_SMYSLOV_EN_MD="books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.en.combined.md"
+FULL_EN_MD="docs/books/EDITIONS/COMBINED/KODEKS_FULL.en.combined.md"
+ALL_EN_MD="docs/books/EDITIONS/COMBINED/ALL_BOOKS_READER.en.combined.md"
+OBSHCHEE_BLAGO_EN_MD="docs/books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.en.combined.md"
+TEKHNOKOSMOS_EN_MD="docs/books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.en.combined.md"
+KARKAS_SMYSLOV_EN_MD="docs/books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.en.combined.md"
 
-SHORT_PDF="books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf"
-SHORT_EN_PDF="books/EDITIONS/PDF/Codex_of_Constructive_Society_short_edition.pdf"
-FULL_PDF="books/EDITIONS/PDF/Кодекс_созидательного_общества.pdf"
-ALL_PDF="books/EDITIONS/PDF/Книжный_корпус.pdf"
-OBSHCHEE_BLAGO_PDF="books/EDITIONS/PDF/Общее_благо_и_справедливая_экономика.pdf"
-TEKHNOKOSMOS_PDF="books/EDITIONS/PDF/Технокосмос_и_фронтир.pdf"
-KARKAS_SMYSLOV_PDF="books/EDITIONS/PDF/Каркас_смыслов_и_практик.pdf"
+SHORT_PDF="docs/books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf"
+SHORT_EN_PDF="docs/books/EDITIONS/PDF/Codex_of_Constructive_Society_short_edition.pdf"
+FULL_PDF="docs/books/EDITIONS/PDF/Кодекс_созидательного_общества.pdf"
+ALL_PDF="docs/books/EDITIONS/PDF/Книжный_корпус.pdf"
+OBSHCHEE_BLAGO_PDF="docs/books/EDITIONS/PDF/Общее_благо_и_справедливая_экономика.pdf"
+TEKHNOKOSMOS_PDF="docs/books/EDITIONS/PDF/Технокосмос_и_фронтир.pdf"
+KARKAS_SMYSLOV_PDF="docs/books/EDITIONS/PDF/Каркас_смыслов_и_практик.pdf"
 
-FULL_EN_PDF="books/EDITIONS/PDF/Codex_of_Constructive_Society.pdf"
-ALL_EN_PDF="books/EDITIONS/PDF/Complete_Book_Corpus.pdf"
-OBSHCHEE_BLAGO_EN_PDF="books/EDITIONS/PDF/Common_Good_and_Fair_Economy.pdf"
-TEKHNOKOSMOS_EN_PDF="books/EDITIONS/PDF/Technocosmos_and_Frontier.pdf"
-KARKAS_SMYSLOV_EN_PDF="books/EDITIONS/PDF/Framework_of_Meanings_and_Practices.pdf"
+FULL_EN_PDF="docs/books/EDITIONS/PDF/Codex_of_Constructive_Society.pdf"
+ALL_EN_PDF="docs/books/EDITIONS/PDF/Complete_Book_Corpus.pdf"
+OBSHCHEE_BLAGO_EN_PDF="docs/books/EDITIONS/PDF/Common_Good_and_Fair_Economy.pdf"
+TEKHNOKOSMOS_EN_PDF="docs/books/EDITIONS/PDF/Technocosmos_and_Frontier.pdf"
+KARKAS_SMYSLOV_EN_PDF="docs/books/EDITIONS/PDF/Framework_of_Meanings_and_Practices.pdf"
 
 PANDOC_IMAGE="${PANDOC_IMAGE:-card-book-pandoc:latest}"
 USE_DOCKER="${USE_DOCKER:-auto}"
@@ -168,7 +168,7 @@ EOF
       --toc \
       --toc-depth="$TOC_DEPTH" \
       --top-level-division=chapter \
-      --include-in-header="books/EDITIONS/pdf-style.tex" \
+      --include-in-header="docs/books/EDITIONS/pdf-style.tex" \
       --include-in-header="$cover_header" \
       -V "lang=$lang" \
       -V "documentclass=$DOCUMENTCLASS" \
@@ -185,7 +185,7 @@ EOF
       -o "$output_file" \
       --standalone \
       --top-level-division=chapter \
-      --include-in-header="books/EDITIONS/pdf-style.tex" \
+      --include-in-header="docs/books/EDITIONS/pdf-style.tex" \
       --include-in-header="$cover_header" \
       -V "lang=$lang" \
       -V "documentclass=$DOCUMENTCLASS" \

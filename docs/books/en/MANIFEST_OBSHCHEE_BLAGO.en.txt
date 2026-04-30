@@ -1,0 +1,9 @@
+# Common Good and Fair Economy (standalone volume)
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/05_granitsy_svobody_i_sanktsii.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/06_manifest_obshchego_blaga.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.en.md
+docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.en.md
