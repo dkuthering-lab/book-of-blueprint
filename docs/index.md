@@ -9,16 +9,16 @@ Welcome to the project dedicated to active human ethics, truth, and constructive
 ### 🇷🇺 На русском языке
 Этот проект — попытка собрать воедино принципы, которые помогут обществу договариваться и созидать в эпоху перемен.
 
-*   **[Читать Кодекс](docs/books/ru/KODEKS/INDEX.md)** — основное ядро и принципы.
-*   **[Инструменты](docs/books/ru/KODEKS/PRINYATYY_KODEKS/READER.md)** — чеклисты для медиа, переговоров и принятия решений.
-*   **[Скачать PDF](docs/books/EDITIONS/README.md)** — версии для печати и чтения офлайн.
+*   **[Читать Кодекс](books/ru/KODEKS/INDEX.md)** — основное ядро и принципы.
+*   **[Инструменты](books/ru/KODEKS/PRINYATYY_KODEKS/READER.md)** — чеклисты для медиа, переговоров и принятия решений.
+*   **[Скачать PDF](books/EDITIONS/README.md)** — версии для печати и чтения офлайн.
 
 ### 🇺🇸 In English
 This project is an attempt to bring together principles that help society agree and create in an era of change.
 
-*   **[Read the Codex](docs/books/en/KODEKS/INDEX.en.md)** — the core principles and foundations.
-*   **[Tools](docs/books/en/KODEKS/PRINYATYY_KODEKS/READER.en.md)** — checklists for media, negotiations, and decision-making.
-*   **[Download PDF](docs/books/en/README.md)** — versions for printing and offline reading.
+*   **[Read the Codex](books/en/KODEKS/INDEX.en.md)** — the core principles and foundations.
+*   **[Tools](books/en/KODEKS/PRINYATYY_KODEKS/READER.en.md)** — checklists for media, negotiations, and decision-making.
+*   **[Download PDF](books/en/README.md)** — versions for printing and offline reading.
 
 ---
 
