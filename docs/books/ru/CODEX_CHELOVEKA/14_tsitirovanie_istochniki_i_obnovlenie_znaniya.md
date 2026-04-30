@@ -51,5 +51,5 @@
 
 Для практического применения используйте:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.md`

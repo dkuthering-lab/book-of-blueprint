@@ -38,6 +38,10 @@ def resolve_target(token: str, current_file: str, root_dir: str):
     if raw.endswith("/"):
         cands.append(os.path.normpath(os.path.join(root_dir, raw, "INDEX.md")))
         cands.append(os.path.normpath(os.path.join(root_dir, raw, "INDEX.en.md")))
+        # Also try with docs/ prefix if not present
+        if not raw.startswith("docs/"):
+            cands.append(os.path.normpath(os.path.join(root_dir, "docs", raw, "INDEX.md")))
+            cands.append(os.path.normpath(os.path.join(root_dir, "docs", raw, "INDEX.en.md")))
         cands.append(os.path.normpath(os.path.join(os.path.dirname(current_file), raw, "INDEX.md")))
         cands.append(os.path.normpath(os.path.join(os.path.dirname(current_file), raw, "INDEX.en.md")))
 
@@ -45,6 +49,9 @@ def resolve_target(token: str, current_file: str, root_dir: str):
         cands.append(raw)
     else:
         cands.append(os.path.normpath(os.path.join(root_dir, raw)))
+        # Also try with docs/ prefix if not present
+        if not raw.startswith("docs/"):
+            cands.append(os.path.normpath(os.path.join(root_dir, "docs", raw)))
         cands.append(os.path.normpath(os.path.join(os.path.dirname(current_file), raw)))
 
     # If token points to existing directory (without trailing slash),

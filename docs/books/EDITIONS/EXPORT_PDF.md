@@ -13,21 +13,21 @@ chmod +x scripts/export_pdf.sh
 
 ## Что собирается
 
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/CODEX_CONSTRUCTIVE_SOCIETY_SHORT_EN.pdf`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/Кодекс_созидательного_общества_полная_версия.pdf`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/Книжный_корпус_полная_сборка.pdf`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/Общее_благо_и_справедливая_экономика_полная_версия.pdf`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/Технокосмос_и_фронтир_полная_версия.pdf`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/PDF/Каркас_смыслов_и_практик_полная_версия.pdf`
+- `books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf`
+- `books/EDITIONS/PDF/CODEX_CONSTRUCTIVE_SOCIETY_SHORT_EN.pdf`
+- `books/EDITIONS/PDF/Кодекс_созидательного_общества_полная_версия.pdf`
+- `books/EDITIONS/PDF/Книжный_корпус_полная_сборка.pdf`
+- `books/EDITIONS/PDF/Общее_благо_и_справедливая_экономика_полная_версия.pdf`
+- `books/EDITIONS/PDF/Технокосмос_и_фронтир_полная_версия.pdf`
+- `books/EDITIONS/PDF/Каркас_смыслов_и_практик_полная_версия.pdf`
 
 Перед экспортом PDF скрипт автоматически склеивает главы в единые markdown-файлы:
 
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/COMBINED/KODEKS_FULL.combined.md`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/COMBINED/ALL_BOOKS_READER.combined.md`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.combined.md`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.combined.md`
-- `docs/docs/docs/docs/docs/docs/books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.combined.md`
+- `books/EDITIONS/COMBINED/KODEKS_FULL.combined.md`
+- `books/EDITIONS/COMBINED/ALL_BOOKS_READER.combined.md`
+- `books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.combined.md`
+- `books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.combined.md`
+- `books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.combined.md`
 
 Также перед рендерингом автоматически выполняется "очеловечивание" ссылок на `.md`:
 пути в тексте заменяются на формат "Книга — Раздел" по заголовкам файлов.
@@ -60,7 +60,7 @@ GEOMETRY="a5paper,top=16mm,bottom=18mm,inner=16mm,outer=14mm" ./scripts/export_p
 
 По умолчанию скрипт уже собирает в формате A5 с умеренно узкими полями.
 Главы начинаются с новой страницы (режим `book` + chapter division).
-Дополнительно подключается стиль `docs/docs/docs/docs/docs/docs/books/EDITIONS/pdf-style.tex` для переносов и аккуратного набора.
+Дополнительно подключается стиль `books/EDITIONS/pdf-style.tex` для переносов и аккуратного набора.
 
 Изображения на титульных страницах (верхний левый угол) подставляются автоматически.
 Можно переопределить через переменные окружения:

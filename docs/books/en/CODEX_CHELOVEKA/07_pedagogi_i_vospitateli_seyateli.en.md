@@ -56,5 +56,5 @@ Educators who changed the culture of thinking of their students — not through 
 
 ## Related Materials
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md` — practices of everyday life
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/03_tom_zhitiya.en.md` — biographical case studies of educators
+- `books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md` — practices of everyday life
+- `books/en/CODEX_CHELOVEKA/03_tom_zhitiya.en.md` — biographical case studies of educators

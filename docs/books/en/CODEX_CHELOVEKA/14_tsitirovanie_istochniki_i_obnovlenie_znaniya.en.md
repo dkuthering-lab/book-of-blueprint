@@ -51,5 +51,5 @@ The higher the quality of citation and the transparency of updates, the more sta
 
 For practical application, use:
 
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.en.md`

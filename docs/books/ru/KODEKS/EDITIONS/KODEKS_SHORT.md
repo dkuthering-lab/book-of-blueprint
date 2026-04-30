@@ -42,17 +42,17 @@
 
 ## Мини-набор инструментов
 
-- Переговоры: `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md`
-- Медиа: `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
-- Земля-Космос: `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md`
-- Источники: `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md`
+- Переговоры: `books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md`
+- Медиа: `books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
+- Земля-Космос: `books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md`
+- Источники: `books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md`
 
 ## Что рядом, но отдельно
 
 Контекстные книги (сценарии, расширенные обсуждения, гипотезы):
 
-- `docs/docs/docs/docs/docs/docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md`
+- `books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md`
+- `books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md`
 
 Они не заменяют принятый слой Кодекса, а помогают его уточнять.
 

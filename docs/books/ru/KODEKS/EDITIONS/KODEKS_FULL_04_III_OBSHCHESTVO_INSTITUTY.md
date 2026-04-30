@@ -10,8 +10,8 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md`
+- `books/ru/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md`
 
 ### 2) Журналистика и общественное зрение
 
@@ -20,10 +20,10 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
+- `books/ru/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.md`
+- `books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
+- `books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
 
 ### 3) Медиа-креаторы и педагоги: проводники смысла
 
@@ -51,6 +51,6 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.md`
+- `books/ru/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.md`
+- `books/ru/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.md`
 

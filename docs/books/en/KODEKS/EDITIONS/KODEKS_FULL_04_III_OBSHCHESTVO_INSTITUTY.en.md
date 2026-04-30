@@ -10,8 +10,8 @@ A person can be deeply nationally rooted and at the same time understand the com
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
+- `books/en/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
 
 ### 2) Journalism and Public Vision
 
@@ -20,10 +20,10 @@ Its task: not to produce noise, but to increase clarity, responsibility, and the
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
+- `books/en/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.en.md`
+- `books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
+- `books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
 
 ### 3) Media Creators and Educators: Conductors of Meaning
 
@@ -51,5 +51,5 @@ An educator in the logic of the Code:
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.en.md`
+- `books/en/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.en.md`
+- `books/en/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.en.md`

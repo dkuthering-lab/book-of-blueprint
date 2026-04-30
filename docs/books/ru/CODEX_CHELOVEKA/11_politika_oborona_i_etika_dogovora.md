@@ -44,4 +44,4 @@
 - улучшает устойчивость страны без разрыва с человечеством.
 
 Связанный прикладной инструмент:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/12_pyat_printsipov_peregovorov_v_logike_kodeksa.md`
+`books/ru/CODEX_CHELOVEKA/12_pyat_printsipov_peregovorov_v_logike_kodeksa.md`

@@ -32,10 +32,10 @@ A journalist in the logic of the Code:
 Good journalism after publication increases clarity, responsibility, and the possibility of action.  
 Bad journalism increases panic, aggression, and powerlessness.
 
-- **Related tool for reader literacy:** `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
-- **Related tool for authors and editorial offices:** `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
-- **Related standard of evidence:** `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.en.md`
-- **Editorial tool before publication:** `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
+- **Related tool for reader literacy:** `books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
+- **Related tool for authors and editorial offices:** `books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
+- **Related standard of evidence:** `books/en/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.en.md`
+- **Editorial tool before publication:** `books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
 
 ## Biographical Case Studies: Two Applied Examples
 

@@ -30,7 +30,7 @@ A strong society is not afraid of fact-checking and updating conclusions.
 Changing a position based on new data is maturity, not weakness.
 
 Foundation:  
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.en.md`
+`books/en/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.en.md`
 
 ### 2) Human Dignity
 
@@ -38,7 +38,7 @@ No high goal justifies dehumanization.
 A person cannot be "expendable material" for progress.
 
 Foundation:  
-`docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.en.md`
+`books/en/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.en.md`
 
 ### 3) Constructive Action as a Criterion
 
@@ -46,7 +46,7 @@ Good is what strengthens life, trust, and opportunities.
 Bad is what brings profit at the cost of destroying people, the environment, and the future.
 
 Foundation:  
-`docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.en.md`
+`books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.en.md`
 
 ---
 
@@ -74,7 +74,7 @@ Conflict does not always mean "everything is broken." Often it is a signal for r
 If a relationship consistently reproduces lies or the destruction of personality, an honest separation can be more creative than prolonged destruction.
 
 Foundation:
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.en.md`
+`books/en/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.en.md`
 
 ### 2) Regular Practices
 
@@ -93,7 +93,7 @@ Examples of practices:
 A practice is considered good if, after it, order, respect for people, and clarity of thought have increased in life.
 
 Foundation:
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md`
+`books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md`
 
 ---
 
@@ -109,8 +109,8 @@ A person can be deeply nationally rooted and at the same time understand the com
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
+- `books/en/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
 
 ### 2) Journalism and Public Vision
 
@@ -119,10 +119,10 @@ Its task: not to produce noise, but to increase clarity, responsibility, and the
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
+- `books/en/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.en.md`
+- `books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
+- `books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
 
 ### 3) Media Creators and Educators: Conductors of Meaning
 
@@ -144,8 +144,8 @@ Educator in the logic of the Code:
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.en.md`
+- `books/en/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.en.md`
+- `books/en/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.en.md`
 
 ---
 
@@ -156,28 +156,28 @@ Foundations:
 Property is needed for freedom and labor, but it does not give the right to systematically harm the common space of life.
 
 Foundation:  
-`docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.en.md`
+`books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.en.md`
 
 ### 2) Capital as a Tool
 
 Capital is ethically legitimate when it serves the development of people and society, rather than the reproduction of rent and vulnerability.
 
 Foundation:  
-`docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.en.md`
+`books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.en.md`
 
 ### 3) Patents and Common Knowledge
 
 Honor to the author is necessary, but vital knowledge should not be blocked by long rent.
 
 Foundation:  
-`docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.en.md`
+`books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.en.md`
 
 ### 4) Technological Test
 
 Any new technology is evaluated through dignity, fairness of access, transparency, and public benefit.
 
 Foundation:
-`docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.en.md`
+`books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.en.md`
 
 ### 5) Bioethics: A Person Cannot Be Raw Material
 
@@ -193,7 +193,7 @@ Red lines:
 Bioprogress is justified where it helps people live longer, healthier, and freer lives without destroying the moral framework of society.
 
 Foundation:
-`docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.en.md`
+`books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.en.md`
 
 ---
 
@@ -209,8 +209,8 @@ Restrictions are permissible only within the legal framework:
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/05_granitsy_svobody_i_sanktsii.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.en.md`
+- `books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/05_granitsy_svobody_i_sanktsii.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.en.md`
 
 ---
 
@@ -228,8 +228,8 @@ Any earthly project must strengthen humanity's capacity for exploration and cons
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
 
 ---
 
@@ -249,8 +249,8 @@ This applies to journalism, science, politics, business, and personal judgments 
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.en.md`
 
 ---
 
@@ -298,10 +298,10 @@ Common good instead of narrow profit.
 
 Two books complement the Code as a contextual layer — they expand understanding, but do not replace the accepted layer of norms.
 
-**`docs/docs/docs/docs/docs/docs/books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md`** — scenarios and contours of development.
+**`books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md`** — scenarios and contours of development.
 Here: why expansion is needed, what professions the frontier forms, how to combine risk and responsibility. This is not science fiction, but practical ethics of a long horizon.
 
-**`docs/docs/docs/docs/docs/docs/books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md`** — social forms, practices, risks of distortion.
+**`books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md`** — social forms, practices, risks of distortion.
 Here: how to create spaces of meaning without coercion, how the hierarchy by contribution is structured, what risks arise when institutionalizing ethics. This book does not repeat the Code — it explores what happens when the values of the Code are attempted to be embodied in living communities and institutions.
 
 The difference between the Code and these books:

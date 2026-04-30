@@ -30,7 +30,7 @@
 Изменить позицию по новым данным - это зрелость, а не слабость.
 
 Опора:  
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md`
+`books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md`
 
 ### 2) Достоинство человека
 
@@ -38,7 +38,7 @@
 Человек не может быть "расходным материалом" для прогресса.
 
 Опора:  
-`docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md`
+`books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md`
 
 ### 3) Созидание как критерий
 
@@ -46,7 +46,7 @@
 Плохо - то, что приносит выгоду ценой разрушения людей, среды и будущего.
 
 Опора:  
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.md`
 
 ---
 
@@ -74,7 +74,7 @@
 Если отношения устойчиво воспроизводят ложь или разрушение личности, честное расставание может быть более созидательным, чем затяжная деструкция.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.md`
+`books/ru/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.md`
 
 ### 2) Регулярные практики
 
@@ -93,7 +93,7 @@
 Практика считается хорошей, если после неё в жизни прибавилось порядка, уважения к людям и ясности мысли.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md`
+`books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md`
 
 ---
 
@@ -109,8 +109,8 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md`
+- `books/ru/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md`
 
 ### 2) Журналистика и общественное зрение
 
@@ -119,10 +119,10 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
+- `books/ru/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.md`
+- `books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
+- `books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
 
 ### 3) Медиа-креаторы и педагоги: проводники смысла
 
@@ -144,8 +144,8 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.md`
+- `books/ru/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.md`
+- `books/ru/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.md`
 
 ---
 
@@ -156,28 +156,28 @@
 Собственность нужна для свободы и труда, но не дает права системно вредить общему пространству жизни.
 
 Опора:  
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.md`
 
 ### 2) Капитал как инструмент
 
 Капитал этически легитимен, когда служит развитию людей и общества, а не воспроизводству ренты и уязвимости.
 
 Опора:  
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.md`
 
 ### 3) Патенты и общее знание
 
 Почет автору необходим, но жизненно важные знания не должны блокироваться долгой рентой.
 
 Опора:  
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.md`
 
 ### 4) Технологический тест
 
 Любая новая технология оценивается через достоинство, справедливость доступа, прозрачность и общественную пользу.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.md`
 
 ### 5) Биоэтика: человек не может быть сырьём
 
@@ -193,7 +193,7 @@
 Биопрогресс оправдан там, где он помогает людям жить дольше, здоровее и свободнее, не разрушая моральный каркас общества.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.md`
 
 ---
 
@@ -209,8 +209,8 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/05_granitsy_svobody_i_sanktsii.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md`
+- `books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/05_granitsy_svobody_i_sanktsii.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md`
 
 ---
 
@@ -228,8 +228,8 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md`
 
 ---
 
@@ -249,8 +249,8 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.md`
 
 ---
 
@@ -300,10 +300,10 @@
 
 Две книги дополняют Кодекс как контекстный слой — они расширяют понимание, но не заменяют принятый слой норм.
 
-**`docs/docs/docs/docs/docs/docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md`** — сценарии и контуры развития.
+**`books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md`** — сценарии и контуры развития.
 Здесь: зачем нужна экспансия, какие профессии формирует фронтир, как соединить риск и ответственность. Это не фантастика, а практическая этика длинного горизонта.
 
-**`docs/docs/docs/docs/docs/docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md`** — общественные формы, практики, риски искажений.
+**`books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md`** — общественные формы, практики, риски искажений.
 Здесь: как создавать пространства смысла без принуждения, как устроена иерархия по вкладу, какие риски возникают при институционализации этики. Эта книга не повторяет Кодекс — она исследует, что происходит, когда ценности Кодекса пытаются воплотить в живых сообществах и институтах.
 
 Разница между Кодексом и этими книгами:

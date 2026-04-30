@@ -11,9 +11,9 @@
 
 ## Основные источники в проекте
 
-- `docs/docs/docs/docs/docs/docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md`
-- отдельные аналитические главы из `docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/`
+- `books/ru/TEKHNOKOSMOS_I_FRONTIR/INDEX.md`
+- `books/ru/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.md`
+- отдельные аналитические главы из `books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/`
 
 ## Правило использования
 

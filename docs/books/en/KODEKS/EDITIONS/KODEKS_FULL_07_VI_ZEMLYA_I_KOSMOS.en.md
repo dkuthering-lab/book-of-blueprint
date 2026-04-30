@@ -12,5 +12,5 @@ Any earthly project must strengthen humanity's capacity for exploration and cons
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`

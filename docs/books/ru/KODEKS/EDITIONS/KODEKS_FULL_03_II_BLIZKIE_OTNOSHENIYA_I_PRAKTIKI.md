@@ -15,7 +15,7 @@
 Если отношения устойчиво воспроизводят ложь или разрушение личности, честное расставание может быть более созидательным, чем затяжная деструкция.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.md`
+`books/ru/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.md`
 
 ### 2) Регулярные практики
 
@@ -34,5 +34,5 @@
 Практика считается хорошей, если после неё в жизни прибавилось порядка, уважения к людям и ясности мысли.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md`
+`books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md`
 

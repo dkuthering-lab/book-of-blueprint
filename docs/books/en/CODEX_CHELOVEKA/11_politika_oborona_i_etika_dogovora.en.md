@@ -44,4 +44,4 @@ A political or military decision is considered creative if it:
 - improves the sustainability of the country without breaking with humanity.
 
 Related applied tool:
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/12_pyat_printsipov_peregovorov_v_logike_kodeksa.en.md`
+`books/en/CODEX_CHELOVEKA/12_pyat_printsipov_peregovorov_v_logike_kodeksa.en.md`

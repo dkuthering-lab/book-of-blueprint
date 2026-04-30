@@ -42,17 +42,17 @@ If answers are unclear, the decision should be revised.
 
 ## Minimal toolset
 
-- Negotiation checklist: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
-- Media checklist: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
-- Earth-Space checklist: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
-- Source card: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
+- Negotiation checklist: `books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
+- Media checklist: `books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
+- Earth-Space checklist: `books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
+- Source card: `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
 
 ## What stays nearby but separate
 
 Context books (scenarios, expanded discussions, hypotheses):
 
-- `docs/docs/docs/docs/docs/docs/books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md`
+- `books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md`
+- `books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md`
 
 They do not replace the accepted layer of the Codex, but help refine it.
 

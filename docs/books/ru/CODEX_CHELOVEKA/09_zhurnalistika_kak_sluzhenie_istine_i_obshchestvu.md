@@ -32,10 +32,10 @@
 Хорошая журналистика после публикации увеличивает ясность, ответственность и возможность действия.  
 Плохая журналистика увеличивает панику, агрессию и бессилие.
 
-- **Связанный инструмент для читательской грамотности:** `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
-- **Связанный инструмент для авторов и редакций:** `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
-- **Связанный стандарт доказательности:** `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md`
-- **Редакционный инструмент перед публикацией:** `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
+- **Связанный инструмент для читательской грамотности:** `books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
+- **Связанный инструмент для авторов и редакций:** `books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
+- **Связанный стандарт доказательности:** `books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md`
+- **Редакционный инструмент перед публикацией:** `books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
 
 ## Биографические примеры: два прикладных примера
 

@@ -6,7 +6,7 @@
 Изменить позицию по новым данным — это зрелость, а не слабость.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md`
+`books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md`
 
 ### 2) Достоинство человека
 
@@ -14,7 +14,7 @@
 Человек не может быть «расходным материалом» для прогресса.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md`
+`books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md`
 
 ### 3) Созидание как критерий
 
@@ -22,5 +22,5 @@
 Плохо — то, что приносит выгоду ценой разрушения людей, среды и будущего.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.md`
 

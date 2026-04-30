@@ -14,5 +14,5 @@ This applies to journalism, science, politics, business, and personal judgments 
 
 Foundations:
 
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
+- `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.en.md`

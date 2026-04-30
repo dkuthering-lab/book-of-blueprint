@@ -2,8 +2,8 @@
 
 Эта папка содержит две читательские сборки:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md` — краткая версия для быстрого входа.
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL.md` — полная версия с нормами, объяснениями и инструментами.
+- `books/ru/KODEKS/EDITIONS/KODEKS_SHORT.md` — краткая версия для быстрого входа.
+- `books/ru/KODEKS/EDITIONS/KODEKS_FULL.md` — полная версия с нормами, объяснениями и инструментами.
 
 ## Принцип
 

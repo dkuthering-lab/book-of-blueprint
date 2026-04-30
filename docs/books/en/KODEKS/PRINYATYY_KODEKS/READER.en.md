@@ -10,21 +10,21 @@ A short guide to the main ideas and tools of the Code.
 
 ## Step 1. Basic Texts
 
-1. `docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.en.md`  
+1. `books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.en.md`  
    A simple evaluation framework: does the decision improve the lives of people and society.
 
-2. `docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/06_manifest_obshchego_blaga.en.md`  
+2. `books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/06_manifest_obshchego_blaga.en.md`  
    Short social contract of the Code.
 
-3. `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.en.md`  
+3. `books/en/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.en.md`  
    Legal minimum: development not against human rights.
 
 ## Step 2. Applied Tools
 
-- For media: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
-- For negotiations: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
-- For Earth-Space projects: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
-- For working with facts: `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
+- For media: `books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
+- For negotiations: `books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md`
+- For Earth-Space projects: `books/en/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.en.md`
+- For working with facts: `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`
 
 ## Step 3. Mini-practice
 

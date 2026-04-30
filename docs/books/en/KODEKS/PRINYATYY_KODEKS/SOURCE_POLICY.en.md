@@ -5,7 +5,7 @@ Short rules for all materials of the "Accepted Code".
 ## Mandatory Rules
 
 1. Any significant fact or figure must have a source.
-2. Any source must be formatted through `docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`.
+2. Any source must be formatted through `books/en/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.en.md`.
 3. Fact, interpretation, and opinion are marked separately.
 4. When new data appears, the author updates the conclusion, rather than hiding the discrepancy.
 

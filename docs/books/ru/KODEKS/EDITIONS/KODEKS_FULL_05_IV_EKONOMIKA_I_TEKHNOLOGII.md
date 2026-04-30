@@ -5,28 +5,28 @@
 Собственность нужна для свободы и труда, но не дает права системно вредить общему пространству жизни.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.md`
 
 ### 2) Капитал как инструмент
 
 Капитал этически легитимен, когда служит развитию людей и общества, а не воспроизводству ренты и уязвимости.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.md`
 
 ### 3) Патенты и общее знание
 
 Почёт автору необходим, но жизненно важные знания не должны блокироваться долгой рентой.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.md`
 
 ### 4) Технологический тест
 
 Любая новая технология оценивается через достоинство, справедливость доступа, прозрачность и общественную пользу.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.md`
 
 ### 5) Биоэтика: человек не может быть сырьём
 
@@ -42,5 +42,5 @@
 Биопрогресс оправдан там, где он помогает людям жить дольше, здоровее и свободнее, не разрушая моральный каркас общества.
 
 Опора:
-`docs/docs/docs/docs/docs/docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.md`
+`books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.md`
 

@@ -56,5 +56,5 @@
 
 ## Связанные материалы
 
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md` — практики повседневной жизни
-- `docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/03_tom_zhitiya.md` — биографические примеры педагогов
+- `books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md` — практики повседневной жизни
+- `books/ru/CODEX_CHELOVEKA/03_tom_zhitiya.md` — биографические примеры педагогов

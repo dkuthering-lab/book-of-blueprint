@@ -57,6 +57,6 @@
 - готов публично исправить ошибку.
 
 Связанные инструменты:
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
-`docs/docs/docs/docs/docs/docs/books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
-`docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`
+`books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md`
+`books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md`
+`books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md`

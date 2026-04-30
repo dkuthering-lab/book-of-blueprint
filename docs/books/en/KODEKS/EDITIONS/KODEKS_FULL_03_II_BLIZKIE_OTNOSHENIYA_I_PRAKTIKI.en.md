@@ -15,7 +15,7 @@ Conflict does not always mean "everything is broken." Often it is a signal for r
 If a relationship consistently reproduces lies or the destruction of personality, an honest separation can be more creative than prolonged destruction.
 
 Foundation:
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.en.md`
+`books/en/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.en.md`
 
 ### 2) Regular Practices
 
@@ -34,4 +34,4 @@ Examples of practices:
 A practice is considered good if, after it, order, respect for people, and clarity of thought have increased in life.
 
 Foundation:
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md`
+`books/en/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.en.md`

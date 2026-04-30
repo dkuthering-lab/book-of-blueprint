@@ -11,9 +11,9 @@ Materials useful for understanding the environment, but not being the "accepted 
 
 ## Main Sources in the Project
 
-- `docs/docs/docs/docs/docs/docs/books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md`
-- `docs/docs/docs/docs/docs/docs/books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md`
-- individual analytical chapters from `docs/docs/docs/docs/docs/docs/books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/`
+- `books/en/TEKHNOKOSMOS_I_FRONTIR/INDEX.en.md`
+- `books/en/SVETSKAYA_RELIGIYA_SMYSLA/INDEX.en.md`
+- individual analytical chapters from `books/en/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/`
 
 ## Rule of Use
 

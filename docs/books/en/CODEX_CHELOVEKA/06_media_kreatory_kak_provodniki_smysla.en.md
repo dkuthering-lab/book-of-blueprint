@@ -57,6 +57,6 @@ A media creator in the logic of the Code:
 - is ready to publicly correct an error.
 
 Related tools:
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
-`docs/docs/docs/docs/docs/docs/books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
-`docs/docs/docs/docs/docs/docs/books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`
+`books/en/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.en.md`
+`books/en/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.en.md`
+`books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md`

@@ -12,6 +12,6 @@
 
 Опоры:
 
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.md`
-- `docs/docs/docs/docs/docs/docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.md`
+- `books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md`
 
