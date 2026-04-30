@@ -39,11 +39,11 @@ markdown_extensions:
   - toc:
       permalink: true
 
-exclude_docs:
-  - scripts/*
-  - source/*
-  - .github/*
-  - LICENSE
+exclude_docs: |
+  scripts/*
+  source/*
+  .github/*
+  LICENSE
 
 nav:
   - Главная: README.md
