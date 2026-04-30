@@ -27,4 +27,4 @@ This project is an attempt to bring together principles that help society agree 
 
 The Code is not an ideology or a religion. It is a working ethical standard for those who make decisions and bear responsibility for the consequences.
 
-[GitHub Repository](https://github.com/ваш-логин/book-of-blueprint)
+**GitHub Repository:** [dkuthering-lab/book-of-blueprint](https://github.com/dkuthering-lab/book-of-blueprint)
