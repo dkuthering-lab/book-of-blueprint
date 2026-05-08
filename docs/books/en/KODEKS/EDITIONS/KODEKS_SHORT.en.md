@@ -1,4 +1,4 @@
-# Codex of Constructive Society (Short Edition)
+# Codex of Rational Creation (Short Edition)
 
 ## Why this document exists
 

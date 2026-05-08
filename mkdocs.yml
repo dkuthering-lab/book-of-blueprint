@@ -1,4 +1,4 @@
-site_name: Кодекс созидательного общества
+site_name: Кодекс Разумного Созидания
 site_url: https://dkuthering-lab.github.io/book-of-blueprint/
 repo_url: https://github.com/dkuthering-lab/book-of-blueprint
 
@@ -79,8 +79,8 @@ nav:
       - Чеклист Медиа: books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md
       - Чеклист Переговоры: books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md
     - Скачать PDF:
-      - Кодекс: books/EDITIONS/PDF/Кодекс_созидательного_общества.pdf
-      - Краткий Кодекс: books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf
+      - Кодекс: books/EDITIONS/PDF/Кодекс_Разумного_Созидания.pdf
+      - Краткий Кодекс: books/EDITIONS/PDF/Кодекс_Разумного_Созидания_краткая_версия.pdf
       - Книжный корпус: books/EDITIONS/PDF/Книжный_корпус.pdf
 
   - '🇺🇸 English':
@@ -122,6 +122,6 @@ nav:
       - Media Checklist: books/en/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.en.md
       - Negotiation Checklist: books/en/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.en.md
     - Download PDF:
-      - Codex: books/EDITIONS/PDF/Codex_of_Constructive_Society.pdf
-      - Short Codex: books/EDITIONS/PDF/Codex_of_Constructive_Society_short_edition.pdf
+      - Codex: books/EDITIONS/PDF/Codex_of_Rational_Creation.pdf
+      - Short Codex: books/EDITIONS/PDF/Codex_of_Rational_Creation_short_edition.pdf
       - Complete Corpus: books/EDITIONS/PDF/Complete_Book_Corpus.pdf

@@ -1,7 +1,7 @@
 # Full corpus reader (all major books)
 # --- Путеводитель ---
 docs/books/ru/KODEKS/PRINYATYY_KODEKS/READER.md
-# --- Кодекс созидательного общества ---
+# --- Кодекс Разумного Созидания ---
 docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_01_PREAMBULA.md
 docs/books/ru/CODEX_CHELOVEKA/01_tom_osnovanie.md
 docs/books/ru/CODEX_CHELOVEKA/02_tom_put.md

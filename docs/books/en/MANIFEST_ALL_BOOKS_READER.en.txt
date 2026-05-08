@@ -1,7 +1,7 @@
 # Full corpus reader (all major books)
 # --- Guide ---
 docs/books/en/KODEKS/PRINYATYY_KODEKS/READER.en.md
-# --- Codex of Constructive Society ---
+# --- Codex of Rational Creation ---
 docs/books/en/KODEKS/EDITIONS/KODEKS_FULL_01_PREAMBULA.en.md
 docs/books/en/CODEX_CHELOVEKA/01_tom_osnovanie.en.md
 docs/books/en/CODEX_CHELOVEKA/02_tom_put.en.md

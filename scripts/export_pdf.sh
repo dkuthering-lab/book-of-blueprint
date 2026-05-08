@@ -22,15 +22,15 @@ OBSHCHEE_BLAGO_EN_MD="docs/books/EDITIONS/COMBINED/OBSHCHEE_BLAGO_FULL.en.combin
 TEKHNOKOSMOS_EN_MD="docs/books/EDITIONS/COMBINED/TEKHNOKOSMOS_FULL.en.combined.md"
 KARKAS_SMYSLOV_EN_MD="docs/books/EDITIONS/COMBINED/KARKAS_SMYSLOV_FULL.en.combined.md"
 
-SHORT_PDF="docs/books/EDITIONS/PDF/Кодекс_созидательного_общества_краткая_версия.pdf"
-SHORT_EN_PDF="docs/books/EDITIONS/PDF/Codex_of_Constructive_Society_short_edition.pdf"
-FULL_PDF="docs/books/EDITIONS/PDF/Кодекс_созидательного_общества.pdf"
+SHORT_PDF="docs/books/EDITIONS/PDF/Кодекс_Разумного_Созидания_краткая_версия.pdf"
+SHORT_EN_PDF="docs/books/EDITIONS/PDF/Codex_of_Rational_Creation_short_edition.pdf"
+FULL_PDF="docs/books/EDITIONS/PDF/Кодекс_Разумного_Созидания.pdf"
 ALL_PDF="docs/books/EDITIONS/PDF/Книжный_корпус.pdf"
 OBSHCHEE_BLAGO_PDF="docs/books/EDITIONS/PDF/Общее_благо_и_справедливая_экономика.pdf"
 TEKHNOKOSMOS_PDF="docs/books/EDITIONS/PDF/Технокосмос_и_фронтир.pdf"
 KARKAS_SMYSLOV_PDF="docs/books/EDITIONS/PDF/Каркас_смыслов_и_практик.pdf"
 
-FULL_EN_PDF="docs/books/EDITIONS/PDF/Codex_of_Constructive_Society.pdf"
+FULL_EN_PDF="docs/books/EDITIONS/PDF/Codex_of_Rational_Creation.pdf"
 ALL_EN_PDF="docs/books/EDITIONS/PDF/Complete_Book_Corpus.pdf"
 OBSHCHEE_BLAGO_EN_PDF="docs/books/EDITIONS/PDF/Common_Good_and_Fair_Economy.pdf"
 TEKHNOKOSMOS_EN_PDF="docs/books/EDITIONS/PDF/Technocosmos_and_Frontier.pdf"
@@ -201,16 +201,16 @@ EOF
 
 echo "Export mode: ${USE_DOCKER} (auto=prefer Docker image $PANDOC_IMAGE)"
 # --- Russian PDFs ---
-build_pdf "$SHORT_MD" "$SHORT_PDF" "Кодекс созидательного общества: краткая версия" "$COVER_KODEKS" 0 "ru"
-build_pdf "$FULL_MD" "$FULL_PDF" "Кодекс созидательного общества" "$COVER_KODEKS" 1 "ru"
+build_pdf "$SHORT_MD" "$SHORT_PDF" "Кодекс Разумного Созидания: краткая версия" "$COVER_KODEKS" 0 "ru"
+build_pdf "$FULL_MD" "$FULL_PDF" "Кодекс Разумного Созидания" "$COVER_KODEKS" 1 "ru"
 build_pdf "$ALL_MD" "$ALL_PDF" "Книжный корпус" "$COVER_ALL" 1 "ru"
 build_pdf "$OBSHCHEE_BLAGO_MD" "$OBSHCHEE_BLAGO_PDF" "Общее благо и справедливая экономика" "$COVER_OBSHCHEE_BLAGO" 1 "ru"
 build_pdf "$TEKHNOKOSMOS_MD" "$TEKHNOKOSMOS_PDF" "Технокосмос и фронтир" "$COVER_TEKHNOKOSMOS" 1 "ru"
 build_pdf "$KARKAS_SMYSLOV_MD" "$KARKAS_SMYSLOV_PDF" "Каркас смыслов и практик" "$COVER_KARKAS_SMYSLOV" 1 "ru"
 
 # --- English PDFs ---
-build_pdf "$SHORT_EN_MD" "$SHORT_EN_PDF" "Codex of Constructive Society: Short Edition" "$COVER_KODEKS_EN" 0 "en"
-build_pdf "$FULL_EN_MD" "$FULL_EN_PDF" "Codex of Constructive Society" "$COVER_KODEKS_EN" 1 "en"
+build_pdf "$SHORT_EN_MD" "$SHORT_EN_PDF" "Codex of Rational Creation: Short Edition" "$COVER_KODEKS_EN" 0 "en"
+build_pdf "$FULL_EN_MD" "$FULL_EN_PDF" "Codex of Rational Creation" "$COVER_KODEKS_EN" 1 "en"
 build_pdf "$ALL_EN_MD" "$ALL_EN_PDF" "Complete Book Corpus" "$COVER_ALL" 1 "en"
 build_pdf "$OBSHCHEE_BLAGO_EN_MD" "$OBSHCHEE_BLAGO_EN_PDF" "Common Good and Fair Economy" "$COVER_OBSHCHEE_BLAGO" 1 "en"
 build_pdf "$TEKHNOKOSMOS_EN_MD" "$TEKHNOKOSMOS_EN_PDF" "Technocosmos and Frontier" "$COVER_TEKHNOKOSMOS" 1 "en"

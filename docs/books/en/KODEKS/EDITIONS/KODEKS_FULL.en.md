@@ -1,4 +1,4 @@
-# Codex of Constructive Society
+# Codex of Rational Creation
 
 ## Preamble
 

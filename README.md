@@ -1,4 +1,4 @@
-# Кодекс созидательного общества / Codex of Constructive Society
+# Кодекс Разумного Созидания / Codex of Rational Creation
 
 [![Deploy Codex to GitHub Pages](https://github.com/dkuthering-lab/book-of-blueprint/actions/workflows/deploy.yml/badge.svg)](https://github.com/dkuthering-lab/book-of-blueprint/actions/workflows/deploy.yml)
 
