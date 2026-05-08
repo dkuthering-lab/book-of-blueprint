@@ -1,0 +1,56 @@
+# Full corpus reader (all major books)
+# --- Путеводитель ---
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/READER.md
+# --- Кодекс Разумного Созидания ---
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_01_PREAMBULA.md
+docs/books/ru/CODEX_CHELOVEKA/01_tom_osnovanie.md
+docs/books/ru/CODEX_CHELOVEKA/02_tom_put.md
+docs/books/ru/CODEX_CHELOVEKA/03_tom_zhitiya.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_02_I_BAZOVYE_OSNOVANIYA.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/01_eticheskiy_kriteriy_horosho_i_ploho.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_03_II_BLIZKIE_OTNOSHENIYA_I_PRAKTIKI.md
+docs/books/ru/CODEX_CHELOVEKA/04_ritualy_i_povsednevnye_praktiki.md
+docs/books/ru/CODEX_CHELOVEKA/08_blizkie_otnosheniya_i_osoznannyy_vybor.md
+docs/books/ru/CODEX_CHELOVEKA/05_sovmestimost_s_veryashchimi_traditsiyami.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_04_III_OBSHCHESTVO_INSTITUTY.md
+docs/books/ru/CODEX_CHELOVEKA/11_politika_oborona_i_etika_dogovora.md
+docs/books/ru/CODEX_CHELOVEKA/12_pyat_printsipov_peregovorov_v_logike_kodeksa.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/NEGOTIATION_CHECKLIST.md
+docs/books/ru/CODEX_CHELOVEKA/09_zhurnalistika_kak_sluzhenie_istine_i_obshchestvu.md
+docs/books/ru/CODEX_CHELOVEKA/10_krasnye_flagi_manipulyativnogo_materiala.md
+docs/books/ru/CODEX_CHELOVEKA/13_pyat_priznakov_chto_material_ne_sluzhit_istine.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/MEDIA_EDITORIAL_CHECKLIST.md
+docs/books/ru/CODEX_CHELOVEKA/06_media_kreatory_kak_provodniki_smysla.md
+docs/books/ru/CODEX_CHELOVEKA/07_pedagogi_i_vospitateli_seyateli.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_05_IV_EKONOMIKA_I_TEKHNOLOGII.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/02_sobstvennost_kak_otvetstvennost.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/03_kapital_kak_instrument_a_ne_tsel.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/04_patenty_i_obshchee_znanie.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/06_manifest_obshchego_blaga.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/07_etika_klonirovaniya_i_dostoinstvo_cheloveka.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/08_eticheskiy_test_tekhnologii_7_voprosov.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_06_V_SVOBODA_PRAVO_SANCTIONS.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/PRAVA_CHELOVEKA_I_SOVMESTIMOST_KODEKSA.md
+docs/books/ru/OBSHCHEE_BLAGO_I_SPRAVEDLIVAYA_EKONOMIKA/05_granitsy_svobody_i_sanktsii.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_07_VI_ZEMLYA_I_KOSMOS.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_I_KOSMOS_ODIN_KONTUR.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/ZEMLYA_KOSMOS_CHECKLIST.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_08_VII_RABOTA_SO_ZNANIEM.md
+docs/books/ru/CODEX_CHELOVEKA/14_tsitirovanie_istochniki_i_obnovlenie_znaniya.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_NOTE.md
+docs/books/ru/KODEKS/PRINYATYY_KODEKS/SOURCE_POLICY.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_09_VIII_SOCIALNYI_KONTRAKT.md
+docs/books/ru/KODEKS/EDITIONS/KODEKS_FULL_10_APPENDIX.md
+# --- Контекстные книги ---
+docs/books/ru/KODEKS/KONTEKST_EPOKHI/INDEX.md
+docs/books/ru/KODEKS/KONTEKST_EPOKHI/01_analiz_tekushchey_situatsii.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/01_zachem_ekspansiya.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/02_zemlya_kak_tyl_i_verf.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/03_professii_frontira.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/04_etika_riska_i_otvetstvennosti.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/05_sintez_s_mirom_zaboty.md
+docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/01_glavnaya_ideya_i_zapovedi.md
+docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/02_hramy_i_mesta_sily.md
+docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/03_ritualy_bez_prinuzhdeniya.md
+docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/04_ierarhiya_po_vkladu.md
+docs/books/ru/SVETSKAYA_RELIGIYA_SMYSLA/05_riski_iskazheniya.md

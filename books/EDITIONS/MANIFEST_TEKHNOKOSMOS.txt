@@ -1,0 +1,6 @@
+# Tekhnokosmos and frontier (standalone volume)
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/01_zachem_ekspansiya.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/02_zemlya_kak_tyl_i_verf.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/03_professii_frontira.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/04_etika_riska_i_otvetstvennosti.md
+docs/books/ru/TEKHNOKOSMOS_I_FRONTIR/05_sintez_s_mirom_zaboty.md
